@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5002';
+const API_BASE_URL = 'backendneraug-edbygxabfpceg9gc.southeastasia-01.azurewebsites.net:5002';
 
 export const classifyText = async (text, domain = "base") => {
     try {
