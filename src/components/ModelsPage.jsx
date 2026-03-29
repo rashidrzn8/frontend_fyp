@@ -31,7 +31,7 @@ const ModelsPage = ({ availableDomains, serverStatus }) => {
                   <h3 className="text-xs font-bold text-gray-500 uppercase tracking-widest mb-2">Endpoint URL</h3>
                   <div className="flex items-center space-x-3 bg-gray-50 p-3 rounded-xl border border-gray-200">
                     <span className="px-2.5 py-1 bg-indigo-100 text-indigo-700 text-xs font-bold rounded-md border border-indigo-200 shadow-sm">POST</span>
-                    <code className="text-gray-800 font-mono text-sm break-all font-medium">http://localhost:5002/process</code>
+                    <code className="text-gray-800 font-mono text-sm break-all font-medium">https://backendneraug-edbygxabfpceg9gc.southeastasia-01.azurewebsites.net/process</code>
                   </div>
                 </div>
 
